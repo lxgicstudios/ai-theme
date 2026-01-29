@@ -1,5 +1,10 @@
 # ai-theme
 
+[![npm version](https://img.shields.io/npm/v/ai-theme.svg)](https://www.npmjs.com/package/ai-theme)
+[![npm downloads](https://img.shields.io/npm/dm/ai-theme.svg)](https://www.npmjs.com/package/ai-theme)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate a complete design system from your brand colors. Gets you a full color palette, typography scale, spacing, shadows, and more.
 
 ## Install
