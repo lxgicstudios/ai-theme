@@ -1,7 +1,7 @@
 {
   "name": "ai-theme",
   "version": "1.0.0",
-  "description": "Generate a complete design system and theme from brand colors using AI",
+  "description": "AI-powered theme generator - design tokens and color palettes with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-theme": "dist/cli.js"
@@ -9,7 +9,23 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["theme", "design-system", "colors", "ai", "cli", "tailwind", "css-variables"],
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "theme",
+    "design-system",
+    "tokens",
+    "css",
+    "colors",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "frontend",
+    "styling"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
