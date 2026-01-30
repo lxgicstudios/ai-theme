@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-theme.svg)](https://www.npmjs.com/package/ai-theme)
 [![npm downloads](https://img.shields.io/npm/dm/ai-theme.svg)](https://www.npmjs.com/package/ai-theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-theme)](https://github.com/lxgic-studios/ai-theme/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Generate a complete design system from your brand colors. Gets you a full color palette, typography scale, spacing, shadows, and more.
