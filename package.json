@@ -1,5 +1,5 @@
 {
-  "name": "ai-theme",
+  "name": "@lxgicstudios/ai-theme",
   "version": "1.0.0",
   "description": "AI-powered theme generator - design tokens and color palettes with GPT",
   "main": "dist/index.js",
