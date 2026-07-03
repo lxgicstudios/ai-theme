@@ -39,7 +39,9 @@
     "light-dark",
     "branding",
     "mobile-first",
-    "page-speed"
+    "page-speed",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
