@@ -47,10 +47,7 @@
     "developer-tools",
     "devtools",
     "gpt",
-    "light-dark",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "light-dark"
   ],
   "license": "MIT",
   "main": "dist/index.js",
